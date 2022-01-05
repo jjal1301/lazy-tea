@@ -28,11 +28,11 @@ h4{
     margin-right: 2%;
 }
 
-.title h1 {
+.title img {
     margin-left: 10px;
     color: gray;
-    font-size: 50px;
-    margin-top: 0;
+    height: 50px;
+    margin-top: 15px;
 }
 
 .menu ul {
